@@ -1,1 +1,3 @@
-# zixagon
+# Zixagon
+
+- [ ] Letterlijk alles
